@@ -1,6 +1,6 @@
 # MachineLearningProject
 
-#Link to the "Pump it Up: Data Mining the Water Table" challenge
+### Link to the "Pump it Up: Data Mining the Water Table" challenge
 https://github.com/HashiniDisanayaka/MachineLearningProject/blob/main/PumpItUpDataMiningTheWaterTableMLchallenge.ipynb
 
 ## The features in this dataset
