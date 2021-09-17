@@ -8,8 +8,8 @@ https://github.com/HashiniDisanayaka/MachineLearningProject/blob/main/PumpItUpDa
 ### Your goal is to predict the operating condition of a waterpoint for each record in the dataset. You are provided the following set of information about the waterpoints:
 
 *amount_tsh - Total static head (amount water available to waterpoint)
--date_recorded - The date the row was entered
---funder - Who funded the well
+*date_recorded - The date the row was entered
+*funder - Who funded the well
 --gps_height - Altitude of the well
 --installer - Organization that installed the well
 --longitude - GPS coordinate
