@@ -53,3 +53,11 @@ https://github.com/HashiniDisanayaka/MachineLearningProject/blob/main/PumpItUpDa
 * functional - the waterpoint is operational and there are no repairs needed
 * functional needs repair - the waterpoint is operational, but needs repairs
 * non functional - the waterpoint is not operational
+
+## Preprocessing Techniques
+
+## Feature engineering techniques
+
+## Proof of Submission
+
+![MachineLearningChallenge](https://user-images.githubusercontent.com/47105941/133801207-82f245ab-a493-45e3-ac61-908ea09945c8.png)
