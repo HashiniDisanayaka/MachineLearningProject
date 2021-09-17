@@ -6,7 +6,7 @@ https://github.com/HashiniDisanayaka/MachineLearningProject/blob/main/PumpItUpDa
 
 ## Preprocessing Techniques :
 ### Label encoding
-* by using a for loop, the label encoding is done by manually and each label is assigned a unique integer based on alphabetical ordering.
+* By using a for loop, the label encoding is done by manually and each label is assigned a unique integer based on alphabetical ordering.
 
 ## Feature engineering techniques
 ### Target encoding
