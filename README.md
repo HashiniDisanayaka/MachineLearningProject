@@ -16,4 +16,7 @@ https://github.com/HashiniDisanayaka/MachineLearningProject/blob/main/PumpItUpDa
 * Features for trainning: 'installer', 'latitude', 'wpt_name', 'num_private', 'basin', 'subvillage', 'district_code', 'lga', 'population', 'scheme_name', 'extraction_type_class', 'management_group', 'source_type'
 
 ## Proof of Submission
-![MachineLearningChallenge](https://user-images.githubusercontent.com/47105941/133812367-c6ba4feb-506e-44e8-ac61-7d038ed3f92c.png)
+![MachineLearningChallenge_submission](https://user-images.githubusercontent.com/47105941/133821927-c4e1681e-e1e7-4a05-8ef9-91297ea155df.png)
+
+## Final Rank
+![MachineLearningChallenge_rank](https://user-images.githubusercontent.com/47105941/133821781-18bcdf65-4bce-4504-8f04-aeb83221722c.png)
