@@ -1,7 +1,18 @@
 # MachineLearningProject
 
-### Link to the "Pump it Up: Data Mining the Water Table" challenge
+### Link to the answer code for "Pump it Up: Data Mining the Water Table" challenge in GitHub :
 https://github.com/HashiniDisanayaka/MachineLearningProject/blob/main/PumpItUpDataMiningTheWaterTableMLchallenge.ipynb
+
+## Introduction to the problem:
+
+"Pump it Up: Data Mining the Water Table" (competition link: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/). Here the goal is to predict the operating condition of a waterpoint for each record in the dataset. A set of information about the waterpoints are provided there. 
+
+### Distribution of Labels
+#### The labels in this dataset are simple. There are three possible values:
+
+* functional - the waterpoint is operational and there are no repairs needed
+* functional needs repair - the waterpoint is operational, but needs repairs
+* non functional - the waterpoint is not operational
 
 ## Preprocessing Techniques :
 ### Label Encoding
