@@ -54,10 +54,14 @@ https://github.com/HashiniDisanayaka/MachineLearningProject/blob/main/PumpItUpDa
 * functional needs repair - the waterpoint is operational, but needs repairs
 * non functional - the waterpoint is not operational
 
-## Preprocessing Techniques
+## Preprocessing Techniques :
+### Label encoding
+* by using a for loop, the label encoding is done by manually and each label is assigned a unique integer based on alphabetical ordering.
 
 ## Feature engineering techniques
+### Target encoding
+* Features for trainning : functional, non functional, functional needs repair
+* Classification using RandomForestClassifier
 
 ## Proof of Submission
-
-![MachineLearningChallenge](https://user-images.githubusercontent.com/47105941/133801207-82f245ab-a493-45e3-ac61-908ea09945c8.png)
+![MachineLearningChallenge](https://user-images.githubusercontent.com/47105941/133801671-a0561fdc-18a1-4dd5-bb37-dc87adab5173.png)
