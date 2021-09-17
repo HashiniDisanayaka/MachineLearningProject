@@ -11,7 +11,7 @@ https://github.com/HashiniDisanayaka/MachineLearningProject/blob/main/PumpItUpDa
 ### Target encoding
 * Target variable: status_group = [functional, non functional, functional needs repair]
 * Classification using RandomForestClassifier
-* Classifier.fit(X,Y)
+* Fit encoder: Classifier.fit(X,Y)
 ### Feature Selection : 
 * Features for trainning: 'installer', 'latitude', 'wpt_name', 'num_private', 'basin', 'subvillage', 'district_code', 'lga', 'population', 'scheme_name', 'extraction_type_class', 'management_group', 'source_type'
 
