@@ -5,7 +5,7 @@ https://github.com/HashiniDisanayaka/MachineLearningProject/blob/main/PumpItUpDa
 
 ## The features in this dataset
 
-# Your goal is to predict the operating condition of a waterpoint for each record in the dataset. You are provided the following set of information about the waterpoints:
+### Your goal is to predict the operating condition of a waterpoint for each record in the dataset. You are provided the following set of information about the waterpoints:
 
 --amount_tsh - Total static head (amount water available to waterpoint)
 --date_recorded - The date the row was entered
@@ -48,7 +48,7 @@ https://github.com/HashiniDisanayaka/MachineLearningProject/blob/main/PumpItUpDa
 --waterpoint_type_group - The kind of waterpoint
 
 ## Distribution of Labels
-# The labels in this dataset are simple. There are three possible values:
+### The labels in this dataset are simple. There are three possible values:
 
 --functional - the waterpoint is operational and there are no repairs needed
 --functional needs repair - the waterpoint is operational, but needs repairs
