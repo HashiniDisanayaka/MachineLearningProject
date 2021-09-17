@@ -1,6 +1,6 @@
 # MachineLearningProject
 
-### Link to the answer code for "Pump it Up: Data Mining the Water Table" challenge in GitHub :
+## Link to the answer code for "Pump it Up: Data Mining the Water Table" challenge in GitHub :
 https://github.com/HashiniDisanayaka/MachineLearningProject/blob/main/PumpItUpDataMiningTheWaterTableMLchallenge.ipynb
 
 ## Introduction to the problem:
